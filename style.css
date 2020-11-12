@@ -1,0 +1,77 @@
+li{
+    display: inline;
+}
+a{
+    color:black;
+    text-decoration:none;
+}
+ul{
+    display: inline;
+    
+}
+
+
+body{
+    background-color: violet;
+    
+}
+.herfi{
+    text-align: right;
+    padding-right: 50px;
+}
+.loginbox{
+	width:350px;
+	height:300px;
+	padding:20px 50px;
+	background-color: #bd4884;
+	border-radius:10px;
+	box-shadow: 0 0 20px 0 #bd4884;
+	margin: auto;
+	font-weight: bold;
+	text-align: center;
+	
+}
+
+.loginbox input[type="text"], input[type="password"]
+{
+	border: 2px solid black;
+	border-radius: 20px;
+	width:300px;
+	height: 30px;
+	text-align: left;
+	background-color: rgb(255, 124, 168);
+	
+	
+}
+ul.list{
+	list-style-type: none;
+	text-align: center;
+
+}
+ul.list li{
+	width:300px;
+	margin-bottom: 20px;
+	
+	
+
+
+}
+ul.list li input[type="button"]{
+	background-color: rgb(255, 124, 168);
+	border: 2px solid rgb(255, 124, 168);
+    border-radius: 20px;
+    margin-top: 10px;
+
+	
+}
+
+#linku{
+  margin-top: 200px;
+text-align: center;
+ font-weight: bold;
+}
+#linku .CP{
+   width: 30px;
+   height: 30px;
+
+}
